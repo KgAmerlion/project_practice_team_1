@@ -18,3 +18,5 @@
 | 15 | previous | Признак | numeric (integer) | Количество контактов с клиентом до начала текущей кампании | — | число (например, 0) | нет |
 | 16 | poutcome | Признак | categorical | Результат предыдущей маркетинговой кампании | — | "unknown", "other", "failure", "success" (в другой версии набора: "failure", "nonexistent", "success") | да |
 | 17 | y | Целевая переменная | binary | Оформил ли клиент срочный вклад? | — | "yes", "no" | нет |
+
+источник https://archive.ics.uci.edu/dataset/222/bank+marketing
